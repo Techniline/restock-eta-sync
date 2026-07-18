@@ -434,6 +434,11 @@
     "productId": "gid://shopify/Product/4514333032532",
     "eta": "2026-07-24"
   },
+  "AU60": {
+    "variantId": "gid://shopify/ProductVariant/32516019650644",
+    "productId": "gid://shopify/Product/4684657131604",
+    "eta": "2026-07-24"
+  },
   "WFA21X": {
     "variantId": "gid://shopify/ProductVariant/32518155239508",
     "productId": "gid://shopify/Product/4684657524820",
