@@ -179,6 +179,11 @@
     "productId": "gid://shopify/Product/4386922692692",
     "eta": "2026-07-27"
   },
+  "PS400": {
+    "variantId": "gid://shopify/ProductVariant/31321272287316",
+    "productId": "gid://shopify/Product/4387146661972",
+    "eta": "2026-07-27"
+  },
   "WINGRACK": {
     "variantId": "gid://shopify/ProductVariant/41682557141076",
     "productId": "gid://shopify/Product/7550766055508",
