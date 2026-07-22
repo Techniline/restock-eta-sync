@@ -284,6 +284,11 @@
     "productId": "gid://shopify/Product/6610728517716",
     "eta": "2026-08-03"
   },
+  "SSA250M": {
+    "variantId": "gid://shopify/ProductVariant/39397294997588",
+    "productId": "gid://shopify/Product/6611937787988",
+    "eta": "2026-08-03"
+  },
   "AMA240DP": {
     "variantId": "gid://shopify/ProductVariant/39395855859796",
     "productId": "gid://shopify/Product/6611641270356",
@@ -292,6 +297,11 @@
   "SSA160EM": {
     "variantId": "gid://shopify/ProductVariant/39397241258068",
     "productId": "gid://shopify/Product/6611932282964",
+    "eta": "2026-08-03"
+  },
+  "SSB45EM": {
+    "variantId": "gid://shopify/ProductVariant/39397260492884",
+    "productId": "gid://shopify/Product/6611934412884",
     "eta": "2026-08-03"
   },
   "UB30": {
