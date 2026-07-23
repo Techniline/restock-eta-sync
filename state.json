@@ -349,6 +349,11 @@
     "productId": "gid://shopify/Product/6611941195860",
     "eta": "2026-08-03"
   },
+  "HBM50": {
+    "variantId": "gid://shopify/ProductVariant/40051183222868",
+    "productId": "gid://shopify/Product/6832809082964",
+    "eta": "2026-08-03"
+  },
   "EHC10": {
     "variantId": "gid://shopify/ProductVariant/39546212122708",
     "productId": "gid://shopify/Product/6677406711892",
