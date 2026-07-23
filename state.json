@@ -1,9 +1,4 @@
 {
-  "PMP1680S": {
-    "variantId": "gid://shopify/ProductVariant/31319880761428",
-    "productId": "gid://shopify/Product/4386564210772",
-    "eta": "2026-07-27"
-  },
   "B115D": {
     "variantId": "gid://shopify/ProductVariant/31319899766868",
     "productId": "gid://shopify/Product/4386576760916",
@@ -77,16 +72,6 @@
   "UM300": {
     "variantId": "gid://shopify/ProductVariant/31695883239508",
     "productId": "gid://shopify/Product/4471485333588",
-    "eta": "2026-07-27"
-  },
-  "HD400": {
-    "variantId": "gid://shopify/ProductVariant/31319929225300",
-    "productId": "gid://shopify/Product/4386589966420",
-    "eta": "2026-07-27"
-  },
-  "B205D": {
-    "variantId": "gid://shopify/ProductVariant/31319898292308",
-    "productId": "gid://shopify/Product/4386575712340",
     "eta": "2026-07-27"
   },
   "XM1800S": {
@@ -177,11 +162,6 @@
   "HA8000V2": {
     "variantId": "gid://shopify/ProductVariant/31320661360724",
     "productId": "gid://shopify/Product/4386922692692",
-    "eta": "2026-07-27"
-  },
-  "PS400": {
-    "variantId": "gid://shopify/ProductVariant/31321272287316",
-    "productId": "gid://shopify/Product/4387146661972",
     "eta": "2026-07-27"
   },
   "WINGRACK": {
@@ -474,11 +454,6 @@
     "productId": "gid://shopify/Product/6610984468564",
     "eta": "2026-08-03"
   },
-  "CS662T": {
-    "variantId": "gid://shopify/ProductVariant/31320660574292",
-    "productId": "gid://shopify/Product/4386922397780",
-    "eta": "2026-08-03"
-  },
   "CS663T": {
     "variantId": "gid://shopify/ProductVariant/31320636555348",
     "productId": "gid://shopify/Product/4386908471380",
@@ -769,16 +744,6 @@
     "productId": "gid://shopify/Product/7762342445140",
     "eta": "2026-08-31"
   },
-  "VQ1800D": {
-    "variantId": "gid://shopify/ProductVariant/31319901569108",
-    "productId": "gid://shopify/Product/4386577645652",
-    "eta": "2026-08-31"
-  },
-  "B108D": {
-    "variantId": "gid://shopify/ProductVariant/31695879733332",
-    "productId": "gid://shopify/Product/4471482974292",
-    "eta": "2026-08-31"
-  },
   "M10-TBS": {
     "variantId": "gid://shopify/ProductVariant/39856297082964",
     "productId": "gid://shopify/Product/6782261428308",
@@ -802,11 +767,6 @@
   "HA6000": {
     "variantId": "gid://shopify/ProductVariant/31695880781908",
     "productId": "gid://shopify/Product/4471483760724",
-    "eta": "2026-08-31"
-  },
-  "BH470": {
-    "variantId": "gid://shopify/ProductVariant/31695880814676",
-    "productId": "gid://shopify/Product/4471483793492",
     "eta": "2026-08-31"
   },
   "A800": {
