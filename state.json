@@ -224,6 +224,11 @@
     "productId": "gid://shopify/Product/4471484055636",
     "eta": "2026-07-27"
   },
+  "DI100": {
+    "variantId": "gid://shopify/ProductVariant/31320661491796",
+    "productId": "gid://shopify/Product/4386922823764",
+    "eta": "2026-07-27"
+  },
   "X32PRODUCER": {
     "variantId": "gid://shopify/ProductVariant/31319872897108",
     "productId": "gid://shopify/Product/4386559393876",
