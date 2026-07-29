@@ -29,11 +29,6 @@
     "productId": "gid://shopify/Product/6611932282964",
     "eta": "2026-08-03"
   },
-  "SSB45EM": {
-    "variantId": "gid://shopify/ProductVariant/39397260492884",
-    "productId": "gid://shopify/Product/6611934412884",
-    "eta": "2026-08-03"
-  },
   "UB30": {
     "variantId": "gid://shopify/ProductVariant/39397231034452",
     "productId": "gid://shopify/Product/6611931529300",
@@ -42,11 +37,6 @@
   "TZA2000DP": {
     "variantId": "gid://shopify/ProductVariant/39393474248788",
     "productId": "gid://shopify/Product/6610979192916",
-    "eta": "2026-08-03"
-  },
-  "SSA250DP": {
-    "variantId": "gid://shopify/ProductVariant/31320178393172",
-    "productId": "gid://shopify/Product/4386717630548",
     "eta": "2026-08-03"
   },
   "SSA160DP": {
@@ -82,11 +72,6 @@
   "AM30SS": {
     "variantId": "gid://shopify/ProductVariant/40887530061908",
     "productId": "gid://shopify/Product/7115118706772",
-    "eta": "2026-08-03"
-  },
-  "CMC5100": {
-    "variantId": "gid://shopify/ProductVariant/39292210151508",
-    "productId": "gid://shopify/Product/6561087553620",
     "eta": "2026-08-03"
   },
   "AUD100XLR": {
@@ -154,11 +139,6 @@
     "productId": "gid://shopify/Product/4684657360980",
     "eta": "2026-08-03"
   },
-  "UHC30": {
-    "variantId": "gid://shopify/ProductVariant/32516019912788",
-    "productId": "gid://shopify/Product/4684657393748",
-    "eta": "2026-08-03"
-  },
   "UHC30XT": {
     "variantId": "gid://shopify/ProductVariant/32516019945556",
     "productId": "gid://shopify/Product/4684657426516",
@@ -209,16 +189,6 @@
     "productId": "gid://shopify/Product/6774260006996",
     "eta": "2026-08-03"
   },
-  "SCM30XT": {
-    "variantId": "gid://shopify/ProductVariant/39393496825940",
-    "productId": "gid://shopify/Product/6610984468564",
-    "eta": "2026-08-03"
-  },
-  "CS662T": {
-    "variantId": "gid://shopify/ProductVariant/31320660574292",
-    "productId": "gid://shopify/Product/4386922397780",
-    "eta": "2026-08-03"
-  },
   "CS663T": {
     "variantId": "gid://shopify/ProductVariant/31320636555348",
     "productId": "gid://shopify/Product/4386908471380",
@@ -259,29 +229,9 @@
     "productId": "gid://shopify/Product/4386911813716",
     "eta": "2026-08-03"
   },
-  "PS400TM": {
-    "variantId": "gid://shopify/ProductVariant/40080165797972",
-    "productId": "gid://shopify/Product/6837400404052",
-    "eta": "2026-08-03"
-  },
-  "ASX912BT": {
-    "variantId": "gid://shopify/ProductVariant/41906179539028",
-    "productId": "gid://shopify/Product/7626771038292",
-    "eta": "2026-08-03"
-  },
   "ASX612WT": {
     "variantId": "gid://shopify/ProductVariant/39538348359764",
     "productId": "gid://shopify/Product/4684657754196",
-    "eta": "2026-08-03"
-  },
-  "ASX312BT": {
-    "variantId": "gid://shopify/ProductVariant/41896708407380",
-    "productId": "gid://shopify/Product/7622327500884",
-    "eta": "2026-08-03"
-  },
-  "ASX312WT": {
-    "variantId": "gid://shopify/ProductVariant/32516020273236",
-    "productId": "gid://shopify/Product/4684657688660",
     "eta": "2026-08-03"
   },
   "SK12FRX8Ohms": {
@@ -292,6 +242,11 @@
   "ASL3000R": {
     "variantId": "gid://shopify/ProductVariant/41851953086548",
     "productId": "gid://shopify/Product/7607466557524",
+    "eta": "2026-08-03"
+  },
+  "NBA15": {
+    "variantId": "gid://shopify/ProductVariant/32516018962516",
+    "productId": "gid://shopify/Product/4684656509012",
     "eta": "2026-08-03"
   },
   "CCS2300": {
@@ -399,11 +354,6 @@
     "productId": "gid://shopify/Product/6727355859028",
     "eta": "2026-08-31"
   },
-  "UL1000G2": {
-    "variantId": "gid://shopify/ProductVariant/41605632229460",
-    "productId": "gid://shopify/Product/7528039055444",
-    "eta": "2026-08-31"
-  },
   "QX2222USB": {
     "variantId": "gid://shopify/ProductVariant/31319859986516",
     "productId": "gid://shopify/Product/4386550186068",
@@ -504,11 +454,6 @@
     "productId": "gid://shopify/Product/4386638266452",
     "eta": "2026-08-31"
   },
-  "ZMX8210V2": {
-    "variantId": "gid://shopify/ProductVariant/39686908706900",
-    "productId": "gid://shopify/Product/6725667717204",
-    "eta": "2026-08-31"
-  },
   "MAGUSPRO": {
     "variantId": "gid://shopify/ProductVariant/39441137565780",
     "productId": "gid://shopify/Product/6625562722388",
@@ -522,16 +467,6 @@
   "DI10A": {
     "variantId": "gid://shopify/ProductVariant/42381967786068",
     "productId": "gid://shopify/Product/7762342445140",
-    "eta": "2026-08-31"
-  },
-  "VQ1800D": {
-    "variantId": "gid://shopify/ProductVariant/31319901569108",
-    "productId": "gid://shopify/Product/4386577645652",
-    "eta": "2026-08-31"
-  },
-  "B108D": {
-    "variantId": "gid://shopify/ProductVariant/31695879733332",
-    "productId": "gid://shopify/Product/4471482974292",
     "eta": "2026-08-31"
   },
   "M10-TBS": {
@@ -559,16 +494,6 @@
     "productId": "gid://shopify/Product/4471483760724",
     "eta": "2026-08-31"
   },
-  "BH470": {
-    "variantId": "gid://shopify/ProductVariant/31695880814676",
-    "productId": "gid://shopify/Product/4471483793492",
-    "eta": "2026-08-31"
-  },
-  "A800": {
-    "variantId": "gid://shopify/ProductVariant/31718207520852",
-    "productId": "gid://shopify/Product/4476141109332",
-    "eta": "2026-08-31"
-  },
   "FBQ2496": {
     "variantId": "gid://shopify/ProductVariant/31695880388692",
     "productId": "gid://shopify/Product/4471483465812",
@@ -593,11 +518,6 @@
     "variantId": "gid://shopify/ProductVariant/39868486582356",
     "productId": "gid://shopify/Product/6787495002196",
     "eta": "2026-08-31"
-  },
-  "DRP100": {
-    "variantId": "gid://shopify/ProductVariant/31319984341076",
-    "productId": "gid://shopify/Product/4386617032788",
-    "eta": "2026-08-28"
   },
   "STRIKEAMP8MKII": {
     "variantId": "gid://shopify/ProductVariant/41522091098196",
