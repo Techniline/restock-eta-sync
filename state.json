@@ -339,6 +339,11 @@
     "productId": "gid://shopify/Product/4386617032788",
     "eta": "2026-08-28"
   },
+  "NITROAMP": {
+    "variantId": "gid://shopify/ProductVariant/42132380450900",
+    "productId": "gid://shopify/Product/7711552864340",
+    "eta": "2026-08-28"
+  },
   "STRIKEAMP8MKII": {
     "variantId": "gid://shopify/ProductVariant/41522091098196",
     "productId": "gid://shopify/Product/7501672579156",
