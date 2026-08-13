@@ -4,6 +4,11 @@
     "productId": "gid://shopify/Product/6610728517716",
     "eta": "2026-08-03"
   },
+  "SSB45EM": {
+    "variantId": "gid://shopify/ProductVariant/39397260492884",
+    "productId": "gid://shopify/Product/6611934412884",
+    "eta": "2026-08-03"
+  },
   "SSB80DFM": {
     "variantId": "gid://shopify/ProductVariant/39397124276308",
     "productId": "gid://shopify/Product/6611921961044",
@@ -344,6 +349,16 @@
     "productId": "gid://shopify/Product/6787495002196",
     "eta": "2026-08-31"
   },
+  "DRP100": {
+    "variantId": "gid://shopify/ProductVariant/31319984341076",
+    "productId": "gid://shopify/Product/4386617032788",
+    "eta": "2026-08-28"
+  },
+  "NITROAMP": {
+    "variantId": "gid://shopify/ProductVariant/42132380450900",
+    "productId": "gid://shopify/Product/7711552864340",
+    "eta": "2026-08-28"
+  },
   "STRIKEAMP8MKII": {
     "variantId": "gid://shopify/ProductVariant/41522091098196",
     "productId": "gid://shopify/Product/7501672579156",
@@ -422,6 +437,11 @@
   "ASC320T": {
     "variantId": "gid://shopify/ProductVariant/39393502822484",
     "productId": "gid://shopify/Product/6610985484372",
+    "eta": "2026-08-10"
+  },
+  "AT40": {
+    "variantId": "gid://shopify/ProductVariant/31320635637844",
+    "productId": "gid://shopify/Product/4386908012628",
     "eta": "2026-08-10"
   },
   "DIAPHR40": {
