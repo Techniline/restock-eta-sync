@@ -164,6 +164,16 @@
     "productId": "gid://shopify/Product/4531602161748",
     "eta": "2026-09-14"
   },
+  "P2": {
+    "variantId": "gid://shopify/ProductVariant/31320174166100",
+    "productId": "gid://shopify/Product/4386714845268",
+    "eta": "2026-09-14"
+  },
+  "P16HQ": {
+    "variantId": "gid://shopify/ProductVariant/41999912370260",
+    "productId": "gid://shopify/Product/7656776990804",
+    "eta": "2026-09-14"
+  },
   "X3MBK": {
     "variantId": "gid://shopify/ProductVariant/42385977704532",
     "productId": "gid://shopify/Product/7762907791444",
