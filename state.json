@@ -263,5 +263,55 @@
     "variantId": "gid://shopify/ProductVariant/39599980183636",
     "productId": "gid://shopify/Product/6698826629204",
     "eta": "2026-09-14"
+  },
+  "SSA350": {
+    "variantId": "gid://shopify/ProductVariant/39392557695060",
+    "productId": "gid://shopify/Product/6610728517716",
+    "eta": "2026-09-25"
+  },
+  "SSA250FX": {
+    "variantId": "gid://shopify/ProductVariant/31320179933268",
+    "productId": "gid://shopify/Product/4386717892692",
+    "eta": "2026-09-25"
+  },
+  "AWM495VL": {
+    "variantId": "gid://shopify/ProductVariant/42044130492500",
+    "productId": "gid://shopify/Product/7674950811732",
+    "eta": "2026-09-25"
+  },
+  "G611S": {
+    "variantId": "gid://shopify/ProductVariant/39397224906836",
+    "productId": "gid://shopify/Product/6611931103316",
+    "eta": "2026-09-25"
+  },
+  "AMH402T": {
+    "variantId": "gid://shopify/ProductVariant/32516019519572",
+    "productId": "gid://shopify/Product/4684657000532",
+    "eta": "2026-09-25"
+  },
+  "AU40": {
+    "variantId": "gid://shopify/ProductVariant/32516019617876",
+    "productId": "gid://shopify/Product/4684657098836",
+    "eta": "2026-09-25"
+  },
+  "AT20": {
+    "variantId": "gid://shopify/ProductVariant/31320635310164",
+    "productId": "gid://shopify/Product/4386907947092",
+    "eta": "2026-09-25"
+  },
+  "CSX5081T": {
+    "variantId": "gid://shopify/ProductVariant/31320636129364",
+    "productId": "gid://shopify/Product/4386908242004",
+    "eta": "2026-09-25"
+  },
+  "WS661T": {
+    "variantId": "gid://shopify/ProductVariant/31320638193748",
+    "productId": "gid://shopify/Product/4386909388884",
+    "eta": "2026-09-25"
+  },
+  "WP225": {
+    "variantId": "gid://shopify/ProductVariant/41857548451924",
+    "productId": "gid://shopify/Product/7608706990164",
+    "eta": "2026-09-25"
   }
 }
