@@ -19,6 +19,11 @@
     "productId": "gid://shopify/Product/7735486644308",
     "eta": "2026-09-20"
   },
+  "BY803": {
+    "variantId": "gid://shopify/ProductVariant/31320156340308",
+    "productId": "gid://shopify/Product/4386710257748",
+    "eta": "2026-08-26"
+  },
   "NB321": {
     "variantId": "gid://shopify/ProductVariant/31321303547988",
     "productId": "gid://shopify/Product/4387160358996",
@@ -267,6 +272,11 @@
   "SSA250FX": {
     "variantId": "gid://shopify/ProductVariant/31320179933268",
     "productId": "gid://shopify/Product/4386717892692",
+    "eta": "2026-09-25"
+  },
+  "SSA160DP": {
+    "variantId": "gid://shopify/ProductVariant/31320176689236",
+    "productId": "gid://shopify/Product/4386715992148",
     "eta": "2026-09-25"
   },
   "AWM495VL": {
