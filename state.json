@@ -254,6 +254,11 @@
     "productId": "gid://shopify/Product/6574183219284",
     "eta": "2026-09-14"
   },
+  "KM750": {
+    "variantId": "gid://shopify/ProductVariant/31320299307092",
+    "productId": "gid://shopify/Product/4386770714708",
+    "eta": "2026-09-14"
+  },
   "WING": {
     "variantId": "gid://shopify/ProductVariant/41717792505940",
     "productId": "gid://shopify/Product/4531602161748",
