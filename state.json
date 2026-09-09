@@ -304,6 +304,11 @@
     "productId": "gid://shopify/Product/4684657098836",
     "eta": "2026-09-25"
   },
+  "AT20": {
+    "variantId": "gid://shopify/ProductVariant/31320635310164",
+    "productId": "gid://shopify/Product/4386907947092",
+    "eta": "2026-09-25"
+  },
   "CSX5081T": {
     "variantId": "gid://shopify/ProductVariant/31320636129364",
     "productId": "gid://shopify/Product/4386908242004",
