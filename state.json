@@ -19,35 +19,10 @@
     "productId": "gid://shopify/Product/6983161151572",
     "eta": "2026-08-26"
   },
-  "MOL5": {
-    "variantId": "gid://shopify/ProductVariant/31321386811476",
-    "productId": "gid://shopify/Product/4387200467028",
-    "eta": "2026-08-31"
-  },
   "NITROPROKIT": {
     "variantId": "gid://shopify/ProductVariant/41796096491604",
     "productId": "gid://shopify/Product/7590359334996",
     "eta": "2026-08-26"
-  },
-  "MOL10": {
-    "variantId": "gid://shopify/ProductVariant/31321387040852",
-    "productId": "gid://shopify/Product/4387200663636",
-    "eta": "2026-08-31"
-  },
-  "MOL20": {
-    "variantId": "gid://shopify/ProductVariant/31321388548180",
-    "productId": "gid://shopify/Product/4387201220692",
-    "eta": "2026-08-31"
-  },
-  "MOL15": {
-    "variantId": "gid://shopify/ProductVariant/31320195661908",
-    "productId": "gid://shopify/Product/4386723528788",
-    "eta": "2026-08-31"
-  },
-  "6C3": {
-    "variantId": "gid://shopify/ProductVariant/40055594156116",
-    "productId": "gid://shopify/Product/6833629921364",
-    "eta": "2026-08-31"
   },
   "iP300": {
     "variantId": "gid://shopify/ProductVariant/39680600997972",
@@ -297,6 +272,11 @@
   "AU40": {
     "variantId": "gid://shopify/ProductVariant/32516019617876",
     "productId": "gid://shopify/Product/4684657098836",
+    "eta": "2026-09-25"
+  },
+  "WFB18X": {
+    "variantId": "gid://shopify/ProductVariant/32516020109396",
+    "productId": "gid://shopify/Product/4684657590356",
     "eta": "2026-09-25"
   },
   "AT20": {
