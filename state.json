@@ -4,11 +4,6 @@
     "productId": "gid://shopify/Product/7735486644308",
     "eta": "2026-09-20"
   },
-  "BY803": {
-    "variantId": "gid://shopify/ProductVariant/31320156340308",
-    "productId": "gid://shopify/Product/4386710257748",
-    "eta": "2026-08-26"
-  },
   "NB321": {
     "variantId": "gid://shopify/ProductVariant/31321303547988",
     "productId": "gid://shopify/Product/4387160358996",
@@ -244,6 +239,11 @@
     "productId": "gid://shopify/Product/4386717892692",
     "eta": "2026-09-25"
   },
+  "SSA250DP": {
+    "variantId": "gid://shopify/ProductVariant/31320178393172",
+    "productId": "gid://shopify/Product/4386717630548",
+    "eta": "2026-09-25"
+  },
   "SSA160DP": {
     "variantId": "gid://shopify/ProductVariant/31320176689236",
     "productId": "gid://shopify/Product/4386715992148",
@@ -254,9 +254,19 @@
     "productId": "gid://shopify/Product/4386912796756",
     "eta": "2026-09-25"
   },
+  "AWM700UH": {
+    "variantId": "gid://shopify/ProductVariant/32778987274324",
+    "productId": "gid://shopify/Product/4746868031572",
+    "eta": "2026-09-25"
+  },
   "AWM495VL": {
     "variantId": "gid://shopify/ProductVariant/42044130492500",
     "productId": "gid://shopify/Product/7674950811732",
+    "eta": "2026-09-25"
+  },
+  "APM201RM": {
+    "variantId": "gid://shopify/ProductVariant/39393548795988",
+    "productId": "gid://shopify/Product/6610991349844",
     "eta": "2026-09-25"
   },
   "G611S": {
@@ -292,6 +302,11 @@
   "CSX5081T": {
     "variantId": "gid://shopify/ProductVariant/31320636129364",
     "productId": "gid://shopify/Product/4386908242004",
+    "eta": "2026-09-25"
+  },
+  "CSX6101T": {
+    "variantId": "gid://shopify/ProductVariant/31320636293204",
+    "productId": "gid://shopify/Product/4386908373076",
     "eta": "2026-09-25"
   },
   "WS661T": {
@@ -379,6 +394,11 @@
     "productId": "gid://shopify/Product/6787458170964",
     "eta": "2026-09-30"
   },
+  "WINGCOMPACT": {
+    "variantId": "gid://shopify/ProductVariant/41682576179284",
+    "productId": "gid://shopify/Product/7550774804564",
+    "eta": "2026-09-30"
+  },
   "DARKMATTERDISTORTION": {
     "variantId": "gid://shopify/ProductVariant/31320027889748",
     "productId": "gid://shopify/Product/4386642559060",
@@ -422,6 +442,11 @@
   "NR300": {
     "variantId": "gid://shopify/ProductVariant/31319930339412",
     "productId": "gid://shopify/Product/4386590851156",
+    "eta": "2026-09-30"
+  },
+  "MA400": {
+    "variantId": "gid://shopify/ProductVariant/32377775489108",
+    "productId": "gid://shopify/Product/4641373388884",
     "eta": "2026-09-30"
   },
   "MR12": {
