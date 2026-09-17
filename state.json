@@ -4,26 +4,6 @@
     "productId": "gid://shopify/Product/7735486644308",
     "eta": "2026-09-20"
   },
-  "BY803": {
-    "variantId": "gid://shopify/ProductVariant/31320156340308",
-    "productId": "gid://shopify/Product/4386710257748",
-    "eta": "2026-08-26"
-  },
-  "NB321": {
-    "variantId": "gid://shopify/ProductVariant/31321303547988",
-    "productId": "gid://shopify/Product/4387160358996",
-    "eta": "2026-08-26"
-  },
-  "NB908": {
-    "variantId": "gid://shopify/ProductVariant/40560738074708",
-    "productId": "gid://shopify/Product/6983161151572",
-    "eta": "2026-08-26"
-  },
-  "NITROPROKIT": {
-    "variantId": "gid://shopify/ProductVariant/41796096491604",
-    "productId": "gid://shopify/Product/7590359334996",
-    "eta": "2026-08-26"
-  },
   "iP300": {
     "variantId": "gid://shopify/ProductVariant/39680600997972",
     "productId": "gid://shopify/Product/6724102750292",
@@ -109,6 +89,11 @@
     "productId": "gid://shopify/Product/6728208744532",
     "eta": "2026-09-21"
   },
+  "X32COMPACT": {
+    "variantId": "gid://shopify/ProductVariant/31319872307284",
+    "productId": "gid://shopify/Product/4386559033428",
+    "eta": "2026-09-21"
+  },
   "BXD15A": {
     "variantId": "gid://shopify/ProductVariant/32377774899284",
     "productId": "gid://shopify/Product/4641372799060",
@@ -122,6 +107,11 @@
   "WINGBK": {
     "variantId": "gid://shopify/ProductVariant/41717785428052",
     "productId": "gid://shopify/Product/4531602161748",
+    "eta": "2026-09-21"
+  },
+  "P2": {
+    "variantId": "gid://shopify/ProductVariant/31320174166100",
+    "productId": "gid://shopify/Product/4386714845268",
     "eta": "2026-09-21"
   },
   "P16HQ": {
@@ -202,6 +192,11 @@
   "CRAVE": {
     "variantId": "gid://shopify/ProductVariant/32887980130388",
     "productId": "gid://shopify/Product/4776251490388",
+    "eta": "2026-09-21"
+  },
+  "XM8500": {
+    "variantId": "gid://shopify/ProductVariant/31319961731156",
+    "productId": "gid://shopify/Product/4386604843092",
     "eta": "2026-09-21"
   },
   "PMP1680S": {
@@ -432,6 +427,11 @@
   "B215D": {
     "variantId": "gid://shopify/ProductVariant/31319898619988",
     "productId": "gid://shopify/Product/4386576007252",
+    "eta": "2026-09-30"
+  },
+  "TU300": {
+    "variantId": "gid://shopify/ProductVariant/31695883108436",
+    "productId": "gid://shopify/Product/4471485202516",
     "eta": "2026-09-30"
   },
   "CE500D": {
