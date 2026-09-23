@@ -454,6 +454,11 @@
     "productId": "gid://shopify/Product/4387191193684",
     "eta": "2026-09-30"
   },
+  "S32": {
+    "variantId": "gid://shopify/ProductVariant/31320426348628",
+    "productId": "gid://shopify/Product/4386832056404",
+    "eta": "2026-09-30"
+  },
   "TU300": {
     "variantId": "gid://shopify/ProductVariant/31695883108436",
     "productId": "gid://shopify/Product/4471485202516",
