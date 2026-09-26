@@ -523,10 +523,5 @@
     "variantId": "gid://shopify/ProductVariant/40347095269460",
     "productId": "gid://shopify/Product/6654229905492",
     "eta": "2026-09-30"
-  },
-  "DN200V2": {
-    "variantId": "gid://shopify/ProductVariant/39566231961684",
-    "productId": "gid://shopify/Product/6686228152404",
-    "eta": "2026-09-30"
   }
 }
