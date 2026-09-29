@@ -264,6 +264,11 @@
     "productId": "gid://shopify/Product/4386715992148",
     "eta": "2026-10-05"
   },
+  "DPA370": {
+    "variantId": "gid://shopify/ProductVariant/31320177836116",
+    "productId": "gid://shopify/Product/4386717040724",
+    "eta": "2026-10-05"
+  },
   "DMX22": {
     "variantId": "gid://shopify/ProductVariant/31320643862612",
     "productId": "gid://shopify/Product/4386912796756",
@@ -277,6 +282,11 @@
   "AWM495VL": {
     "variantId": "gid://shopify/ProductVariant/42044130492500",
     "productId": "gid://shopify/Product/7674950811732",
+    "eta": "2026-10-05"
+  },
+  "AWM495V2": {
+    "variantId": "gid://shopify/ProductVariant/32516019781716",
+    "productId": "gid://shopify/Product/4684657262676",
     "eta": "2026-10-05"
   },
   "APM201RM": {
@@ -442,6 +452,11 @@
   "B215D": {
     "variantId": "gid://shopify/ProductVariant/31319898619988",
     "productId": "gid://shopify/Product/4386576007252",
+    "eta": "2026-09-30"
+  },
+  "NX3000D": {
+    "variantId": "gid://shopify/ProductVariant/31320217550932",
+    "productId": "gid://shopify/Product/4386731786324",
     "eta": "2026-09-30"
   },
   "DR110DSP": {
