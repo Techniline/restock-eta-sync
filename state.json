@@ -9,11 +9,6 @@
     "productId": "gid://shopify/Product/4386576924756",
     "eta": "2026-10-09"
   },
-  "BXD15": {
-    "variantId": "gid://shopify/ProductVariant/31321275138132",
-    "productId": "gid://shopify/Product/4387147284564",
-    "eta": "2026-09-30"
-  },
   "EP4000": {
     "variantId": "gid://shopify/ProductVariant/31319913693268",
     "productId": "gid://shopify/Product/4386580889684",
@@ -49,11 +44,6 @@
     "productId": "gid://shopify/Product/4386573123668",
     "eta": "2026-10-09"
   },
-  "SX3242FX": {
-    "variantId": "gid://shopify/ProductVariant/31319870505044",
-    "productId": "gid://shopify/Product/4386558672980",
-    "eta": "2026-09-30"
-  },
   "B208D": {
     "variantId": "gid://shopify/ProductVariant/32380584656980",
     "productId": "gid://shopify/Product/4386576498772",
@@ -68,11 +58,6 @@
     "variantId": "gid://shopify/ProductVariant/39441234755668",
     "productId": "gid://shopify/Product/6625619673172",
     "eta": "2026-10-09"
-  },
-  "DCX2496LE": {
-    "variantId": "gid://shopify/ProductVariant/31319918903380",
-    "productId": "gid://shopify/Product/4386583576660",
-    "eta": "2026-09-30"
   },
   "FBQ6200HD": {
     "variantId": "gid://shopify/ProductVariant/31677205020756",
@@ -103,11 +88,6 @@
     "variantId": "gid://shopify/ProductVariant/31319900291156",
     "productId": "gid://shopify/Product/4386577154132",
     "eta": "2026-10-09"
-  },
-  "XR18": {
-    "variantId": "gid://shopify/ProductVariant/31319874306132",
-    "productId": "gid://shopify/Product/4386560180308",
-    "eta": "2026-09-30"
   },
   "WINGBK": {
     "variantId": "gid://shopify/ProductVariant/41717785428052",
@@ -144,11 +124,6 @@
     "productId": "gid://shopify/Product/4597935734868",
     "eta": "2026-10-09"
   },
-  "X2442USB": {
-    "variantId": "gid://shopify/ProductVariant/31319862870100",
-    "productId": "gid://shopify/Product/4386553004116",
-    "eta": "2026-09-30"
-  },
   "K450FX": {
     "variantId": "gid://shopify/ProductVariant/31319957831764",
     "productId": "gid://shopify/Product/4386601926740",
@@ -164,19 +139,9 @@
     "productId": "gid://shopify/Product/7528028307540",
     "eta": "2026-10-09"
   },
-  "PMP500": {
-    "variantId": "gid://shopify/ProductVariant/31319880335444",
-    "productId": "gid://shopify/Product/4386563850324",
-    "eta": "2026-09-30"
-  },
   "4MGBK": {
     "variantId": "gid://shopify/ProductVariant/42380833914964",
     "productId": "gid://shopify/Product/7762224119892",
-    "eta": "2026-09-30"
-  },
-  "XM1800S": {
-    "variantId": "gid://shopify/ProductVariant/31319961010260",
-    "productId": "gid://shopify/Product/4386604154964",
     "eta": "2026-09-30"
   },
   "SB78A": {
@@ -204,16 +169,6 @@
     "productId": "gid://shopify/Product/4776251490388",
     "eta": "2026-09-30"
   },
-  "XM8500": {
-    "variantId": "gid://shopify/ProductVariant/31319961731156",
-    "productId": "gid://shopify/Product/4386604843092",
-    "eta": "2026-09-30"
-  },
-  "PMP1680S": {
-    "variantId": "gid://shopify/ProductVariant/31319880761428",
-    "productId": "gid://shopify/Product/4386564210772",
-    "eta": "2026-09-30"
-  },
   "POLYD": {
     "variantId": "gid://shopify/ProductVariant/39312237592660",
     "productId": "gid://shopify/Product/6574183219284",
@@ -228,11 +183,6 @@
     "variantId": "gid://shopify/ProductVariant/41717792505940",
     "productId": "gid://shopify/Product/4531602161748",
     "eta": "2026-10-09"
-  },
-  "PMP2000D": {
-    "variantId": "gid://shopify/ProductVariant/31320018419796",
-    "productId": "gid://shopify/Product/4386638266452",
-    "eta": "2026-09-30"
   },
   "TZA2000": {
     "variantId": "gid://shopify/ProductVariant/39397198200916",
@@ -359,11 +309,6 @@
     "productId": "gid://shopify/Product/7762231197780",
     "eta": "2026-09-30"
   },
-  "ECM8000": {
-    "variantId": "gid://shopify/ProductVariant/31319960256596",
-    "productId": "gid://shopify/Product/4386603466836",
-    "eta": "2026-09-30"
-  },
   "WINGRACK": {
     "variantId": "gid://shopify/ProductVariant/41682557141076",
     "productId": "gid://shopify/Product/7550766055508",
@@ -372,16 +317,6 @@
   "ZEUSDRIVEOVERDRIVE": {
     "variantId": "gid://shopify/ProductVariant/39440522510420",
     "productId": "gid://shopify/Product/6625261715540",
-    "eta": "2026-09-30"
-  },
-  "SX3040V2": {
-    "variantId": "gid://shopify/ProductVariant/31718061080660",
-    "productId": "gid://shopify/Product/4476117188692",
-    "eta": "2026-09-30"
-  },
-  "HA8000V2": {
-    "variantId": "gid://shopify/ProductVariant/31320661360724",
-    "productId": "gid://shopify/Product/4386922692692",
     "eta": "2026-09-30"
   },
   "MIC300": {
@@ -394,16 +329,6 @@
     "productId": "gid://shopify/Product/6727377223764",
     "eta": "2026-09-30"
   },
-  "DR112DSP": {
-    "variantId": "gid://shopify/ProductVariant/31722039083092",
-    "productId": "gid://shopify/Product/4476776185940",
-    "eta": "2026-09-30"
-  },
-  "UCA202": {
-    "variantId": "gid://shopify/ProductVariant/31319966023764",
-    "productId": "gid://shopify/Product/4386607661140",
-    "eta": "2026-09-30"
-  },
   "DCX2496": {
     "variantId": "gid://shopify/ProductVariant/32377776767060",
     "productId": "gid://shopify/Product/4641374666836",
@@ -412,11 +337,6 @@
   "IQ10": {
     "variantId": "gid://shopify/ProductVariant/39961525157972",
     "productId": "gid://shopify/Product/6815032410196",
-    "eta": "2026-09-30"
-  },
-  "MDX2600V2": {
-    "variantId": "gid://shopify/ProductVariant/31695880421460",
-    "productId": "gid://shopify/Product/4471483498580",
     "eta": "2026-09-30"
   },
   "1202SFX": {
@@ -434,69 +354,9 @@
     "productId": "gid://shopify/Product/7550774804564",
     "eta": "2026-09-30"
   },
-  "DARKMATTERDISTORTION": {
-    "variantId": "gid://shopify/ProductVariant/31320027889748",
-    "productId": "gid://shopify/Product/4386642559060",
-    "eta": "2026-09-30"
-  },
-  "B207MP3": {
-    "variantId": "gid://shopify/ProductVariant/31319888068692",
-    "productId": "gid://shopify/Product/4386569224276",
-    "eta": "2026-09-30"
-  },
-  "UM300": {
-    "variantId": "gid://shopify/ProductVariant/31695883239508",
-    "productId": "gid://shopify/Product/4471485333588",
-    "eta": "2026-09-30"
-  },
-  "B215D": {
-    "variantId": "gid://shopify/ProductVariant/31319898619988",
-    "productId": "gid://shopify/Product/4386576007252",
-    "eta": "2026-09-30"
-  },
-  "NX3000D": {
-    "variantId": "gid://shopify/ProductVariant/31320217550932",
-    "productId": "gid://shopify/Product/4386731786324",
-    "eta": "2026-09-30"
-  },
-  "DR110DSP": {
-    "variantId": "gid://shopify/ProductVariant/31321369608276",
-    "productId": "gid://shopify/Product/4387191193684",
-    "eta": "2026-09-30"
-  },
-  "S32": {
-    "variantId": "gid://shopify/ProductVariant/31320426348628",
-    "productId": "gid://shopify/Product/4386832056404",
-    "eta": "2026-09-30"
-  },
-  "TU300": {
-    "variantId": "gid://shopify/ProductVariant/31695883108436",
-    "productId": "gid://shopify/Product/4471485202516",
-    "eta": "2026-09-30"
-  },
   "CE500D": {
     "variantId": "gid://shopify/ProductVariant/39868629188692",
     "productId": "gid://shopify/Product/6787535732820",
-    "eta": "2026-09-30"
-  },
-  "A800": {
-    "variantId": "gid://shopify/ProductVariant/31718207520852",
-    "productId": "gid://shopify/Product/4476141109332",
-    "eta": "2026-09-30"
-  },
-  "NX6000": {
-    "variantId": "gid://shopify/ProductVariant/31717848481876",
-    "productId": "gid://shopify/Product/4476076818516",
-    "eta": "2026-09-30"
-  },
-  "FX600": {
-    "variantId": "gid://shopify/ProductVariant/31319927128148",
-    "productId": "gid://shopify/Product/4386589048916",
-    "eta": "2026-09-30"
-  },
-  "NR300": {
-    "variantId": "gid://shopify/ProductVariant/31319930339412",
-    "productId": "gid://shopify/Product/4386590851156",
     "eta": "2026-09-30"
   },
   "MA400": {
@@ -509,11 +369,6 @@
     "productId": "gid://shopify/Product/6698826137684",
     "eta": "2026-09-30"
   },
-  "UCA222": {
-    "variantId": "gid://shopify/ProductVariant/31319965630548",
-    "productId": "gid://shopify/Product/4386607366228",
-    "eta": "2026-09-30"
-  },
   "ADA8200": {
     "variantId": "gid://shopify/ProductVariant/32377774014548",
     "productId": "gid://shopify/Product/4641372143700",
@@ -522,11 +377,6 @@
   "DI20P": {
     "variantId": "gid://shopify/ProductVariant/42886049169492",
     "productId": "gid://shopify/Product/7894880649300",
-    "eta": "2026-09-30"
-  },
-  "POLYTUNECLIP": {
-    "variantId": "gid://shopify/ProductVariant/31320644452436",
-    "productId": "gid://shopify/Product/4386913288276",
     "eta": "2026-09-30"
   },
   "ZMX8210V2": {
