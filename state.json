@@ -14,6 +14,11 @@
     "productId": "gid://shopify/Product/6782256349268",
     "eta": "2026-12-30"
   },
+  "EPS500MP3": {
+    "variantId": "gid://shopify/ProductVariant/31319917527124",
+    "productId": "gid://shopify/Product/4386582855764",
+    "eta": "2026-12-30"
+  },
   "MS8000": {
     "variantId": "gid://shopify/ProductVariant/31743837962324",
     "productId": "gid://shopify/Product/4484191584340",
@@ -89,6 +94,11 @@
     "productId": "gid://shopify/Product/4471484022868",
     "eta": "2026-12-30"
   },
+  "NR300": {
+    "variantId": "gid://shopify/ProductVariant/31319930339412",
+    "productId": "gid://shopify/Product/4386590851156",
+    "eta": "2026-12-30"
+  },
   "FBQ6200HD": {
     "variantId": "gid://shopify/ProductVariant/31677205020756",
     "productId": "gid://shopify/Product/4468265189460",
@@ -122,6 +132,11 @@
   "KM750": {
     "variantId": "gid://shopify/ProductVariant/31320299307092",
     "productId": "gid://shopify/Product/4386770714708",
+    "eta": "2026-12-30"
+  },
+  "1202SFX": {
+    "variantId": "gid://shopify/ProductVariant/40064356515924",
+    "productId": "gid://shopify/Product/6834597134420",
     "eta": "2026-12-30"
   }
 }
