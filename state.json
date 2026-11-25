@@ -1,9 +1,4 @@
 {
-  "NITROMAXKIT": {
-    "variantId": "gid://shopify/ProductVariant/40121043222612",
-    "productId": "gid://shopify/Product/6842995343444",
-    "eta": "2026-11-30"
-  },
   "NITROPROKIT": {
     "variantId": "gid://shopify/ProductVariant/41796096491604",
     "productId": "gid://shopify/Product/7590359334996",
@@ -17,167 +12,177 @@
   "iP3000": {
     "variantId": "gid://shopify/ProductVariant/39856265592916",
     "productId": "gid://shopify/Product/6782256349268",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "EPS500MP3": {
     "variantId": "gid://shopify/ProductVariant/31319917527124",
     "productId": "gid://shopify/Product/4386582855764",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "MS8000": {
     "variantId": "gid://shopify/ProductVariant/31743837962324",
     "productId": "gid://shopify/Product/4484191584340",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "TO800": {
     "variantId": "gid://shopify/ProductVariant/31695883042900",
     "productId": "gid://shopify/Product/4471485136980",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "SPARKMINIBOOSTER": {
     "variantId": "gid://shopify/ProductVariant/31320652513364",
     "productId": "gid://shopify/Product/4386918629460",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "DS50": {
     "variantId": "gid://shopify/ProductVariant/40799972589652",
     "productId": "gid://shopify/Product/7071744884820",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "EPQ304": {
     "variantId": "gid://shopify/ProductVariant/31319913201748",
     "productId": "gid://shopify/Product/4386580824148",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "M12": {
     "variantId": "gid://shopify/ProductVariant/39776261111892",
     "productId": "gid://shopify/Product/6749901324372",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "ULM300LAV": {
     "variantId": "gid://shopify/ProductVariant/39693605306452",
     "productId": "gid://shopify/Product/6727261618260",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "XTOUCH": {
     "variantId": "gid://shopify/ProductVariant/31320000495700",
     "productId": "gid://shopify/Product/4386626306132",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "EQ700": {
     "variantId": "gid://shopify/ProductVariant/31319925588052",
     "productId": "gid://shopify/Product/4386587672660",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
+  },
+  "CX3400V2": {
+    "variantId": "gid://shopify/ProductVariant/31695880290388",
+    "productId": "gid://shopify/Product/4471483367508",
+    "eta": "2026-12-08"
   },
   "CT100": {
     "variantId": "gid://shopify/ProductVariant/32377774112852",
     "productId": "gid://shopify/Product/4641372242004",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "ECM8000": {
     "variantId": "gid://shopify/ProductVariant/31319960256596",
     "productId": "gid://shopify/Product/4386603466836",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "DI600P": {
     "variantId": "gid://shopify/ProductVariant/31319919362132",
     "productId": "gid://shopify/Product/4386583740500",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "WASPDELUXE": {
     "variantId": "gid://shopify/ProductVariant/39567001714772",
     "productId": "gid://shopify/Product/6686471323732",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "HA8000V2": {
     "variantId": "gid://shopify/ProductVariant/31320661360724",
     "productId": "gid://shopify/Product/4386922692692",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "RD9": {
     "variantId": "gid://shopify/ProductVariant/40331939741780",
     "productId": "gid://shopify/Product/6912534282324",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
+  },
+  "DR115DSP": {
+    "variantId": "gid://shopify/ProductVariant/31722012639316",
+    "productId": "gid://shopify/Product/4476771762260",
+    "eta": "2026-12-08"
   },
   "MR18": {
     "variantId": "gid://shopify/ProductVariant/39868550578260",
     "productId": "gid://shopify/Product/6787515940948",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "P16HQ": {
     "variantId": "gid://shopify/ProductVariant/41999912370260",
     "productId": "gid://shopify/Product/7656776990804",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "PP400": {
     "variantId": "gid://shopify/ProductVariant/31695881044052",
     "productId": "gid://shopify/Product/4471484022868",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "NR300": {
     "variantId": "gid://shopify/ProductVariant/31319930339412",
     "productId": "gid://shopify/Product/4386590851156",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "FBQ3102HD": {
     "variantId": "gid://shopify/ProductVariant/32377774669908",
     "productId": "gid://shopify/Product/4641372569684",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "FBQ6200HD": {
     "variantId": "gid://shopify/ProductVariant/31677205020756",
     "productId": "gid://shopify/Product/4468265189460",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "DN200V2": {
     "variantId": "gid://shopify/ProductVariant/39566231961684",
     "productId": "gid://shopify/Product/6686228152404",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "S32": {
     "variantId": "gid://shopify/ProductVariant/31320426348628",
     "productId": "gid://shopify/Product/4386832056404",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "B215D": {
     "variantId": "gid://shopify/ProductVariant/31319898619988",
     "productId": "gid://shopify/Product/4386576007252",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "AC60": {
     "variantId": "gid://shopify/ProductVariant/39694136770644",
     "productId": "gid://shopify/Product/6727374897236",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "F1320D": {
     "variantId": "gid://shopify/ProductVariant/31319901470804",
     "productId": "gid://shopify/Product/4386577547348",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "SM5001": {
     "variantId": "gid://shopify/ProductVariant/39694201454676",
     "productId": "gid://shopify/Product/6727390068820",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "KM750": {
     "variantId": "gid://shopify/ProductVariant/31320299307092",
     "productId": "gid://shopify/Product/4386770714708",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "DR18SUB": {
     "variantId": "gid://shopify/ProductVariant/39868414328916",
     "productId": "gid://shopify/Product/6787458170964",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "1CBKPC": {
     "variantId": "gid://shopify/ProductVariant/31319906582612",
     "productId": "gid://shopify/Product/4386578366548",
-    "eta": "2026-11-23"
+    "eta": "2026-12-08"
   },
   "1202SFX": {
     "variantId": "gid://shopify/ProductVariant/40064356515924",
     "productId": "gid://shopify/Product/6834597134420",
-    "eta": "2026-11-23"
+    "eta": "2026-12-23"
   },
   "KM1700": {
     "variantId": "gid://shopify/ProductVariant/31695880093780",
